@@ -12,7 +12,7 @@ Basic understanding of compiling and running Java programs from the command line
 
 Files inside source code folder -> DP PROJECT folder
 
-## `CloudResourceAllocationBottomUp.java`
+##### `CloudResourceAllocationBottomUp.java`
 Implements the bottom-up dynamic programming approach
 
 ### `CloudResourceAllocationRecursive.java`
