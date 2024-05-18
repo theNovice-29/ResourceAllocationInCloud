@@ -12,9 +12,14 @@ Basic understanding of compiling and running Java programs from the command line
 
 Files inside source code folder -> DP PROJECT folder
 
-### `CloudResourceAllocationBottomUp.java` - Implements the bottom-up dynamic programming approach.
-### `CloudResourceAllocationRecursive.java` - Implements the naive recursive approach.
-### `CloudResourceAllocationTopDown.java` - Implements the top-down dynamic programming approach.
+### `CloudResourceAllocationBottomUp.java`
+Implements the bottom-up dynamic programming approach
+
+### `CloudResourceAllocationRecursive.java`
+Implements the naive recursive approach
+
+### `CloudResourceAllocationTopDown.java`
+Implements the top-down dynamic programming approach
 
 How to Run the Codes
 Using Command Line
@@ -24,18 +29,18 @@ Navigate to the directory containing the Java files.
 
 For the top-down approach:
 Copy code:
-javac CloudResourceAllocationTopDown.java
-java CloudResourceAllocationTopDown
+### `javac CloudResourceAllocationTopDown.java`
+### `java CloudResourceAllocationTopDown`
 
 For the bottom-up approach:
 Copy code:
-javac CloudResourceAllocationBottomUp.java
-java CloudResourceAllocationBottomUp
+### `javac CloudResourceAllocationBottomUp.java`
+### `java CloudResourceAllocationBottomUp`
 
 For the naive recursive approach:
 Copy code:
-javac CloudResourceAllocationRecursive.java
-java CloudResourceAllocationRecursive
+### `javac CloudResourceAllocationRecursive.java`
+### `java CloudResourceAllocationRecursive`
 
 Using an IDE
 
