@@ -34,8 +34,8 @@ Copy code:
 
 For the bottom-up approach:
 Copy code:
-### `javac CloudResourceAllocationBottomUp.java`
-### `java CloudResourceAllocationBottomUp`
+#### `javac CloudResourceAllocationBottomUp.java`
+#### `java CloudResourceAllocationBottomUp`
 
 For the naive recursive approach:
 Copy code:
